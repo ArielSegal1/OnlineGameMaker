@@ -18,7 +18,7 @@ background_color = (0, 0, 0)
 
 # Set up player
 player_pos = [WIDTH // 2, HEIGHT // 2]
-player_speed = 50
+player_speed = 1
 
 # Set up collectible
 collect_pos = [random.randint(0, WIDTH - COLLECT_SIZE), random.randint(0, HEIGHT - COLLECT_SIZE)]
