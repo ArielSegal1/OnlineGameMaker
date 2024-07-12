@@ -2,7 +2,7 @@ import pygame
 import random
 
 # Initialize Pygame
-pygame.init()   
+pygame.init()
 
 # Set up display
 WIDTH, HEIGHT = 800, 600
