@@ -5,7 +5,7 @@ a = Analysis(
     ['temp\\modified_script.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('C:\\Users\\Ariel\\Documents\\StartupPython\\OnlineGameMaker\\cloud.png', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
